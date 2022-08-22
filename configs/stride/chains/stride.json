@@ -1,7 +1,7 @@
 {
   "type": "cosmos",
   "value": {
-    "key": “serkan”,
+    "key": "serkan",
     "chain-id": "STRIDE-TESTNET-4",
     "rpc-addr": "http://45.91.168.87:16657",
     "account-prefix": "stride",
