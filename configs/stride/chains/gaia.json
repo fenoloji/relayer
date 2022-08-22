@@ -1,9 +1,9 @@
 {
   "type": "cosmos",
   "value": {
-    "key": “serkan”,
+    "key": "serkan",
     "chain-id": "GAIA",
-    "rpc-addr": "http://134.122.30.228:23657”,
+    "rpc-addr": "http://134.122.30.228:23657",
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
